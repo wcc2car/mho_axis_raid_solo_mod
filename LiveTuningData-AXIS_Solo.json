@@ -1,0 +1,22 @@
+[
+  {
+    "Prototype": "Powers/EnemyPowers/Boss/OnslaughtRaid/NullifierDoTOnShieldCenter.prototype",
+    "Setting": "ePTV_PowerDamagePVE",
+    "Value": 50.0
+  },
+  {
+    "Prototype": "Powers/EnemyPowers/Boss/OnslaughtRaid/NullifierDoTOnShieldLeft.prototype",
+    "Setting": "ePTV_PowerDamagePVE",
+    "Value": 50.0
+  },
+  {
+    "Prototype": "Powers/EnemyPowers/Boss/OnslaughtRaid/NullifierDoTOnShieldRight.prototype",
+    "Setting": "ePTV_PowerDamagePVE",
+    "Value": 50.0
+  },
+  {
+    "Prototype": "Entity/Characters/PetsAndSummons/MissionAllies/Endgame/Raids/Axis/GenoshaRaidSHIELDEngineer.prototype",
+    "Setting": "eWETV_MobHealth",
+    "Value": 0.3
+  } 
+]
