@@ -6,7 +6,7 @@ MarvelHeroes Omega (MHServerEmu) AXIS Raid Solo mod
 
 
 
-[====================== CHT Text ======================]
+[==================== CHT Text ====================]
 
 MarvelHeroes Omega (MHServerEmu) AXIS 團隊副本單人 mod
 
