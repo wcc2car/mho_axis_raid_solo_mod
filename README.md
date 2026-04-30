@@ -5,7 +5,7 @@ MarvelHeroes Omega (MHServerEmu) AXIS Raid Solo mod
 - Method based on an MHServerEmu Discord post
 
 
-=============[Cht Messsage]==========================================
+[====================== CHT Text ======================]
 
 MarvelHeroes Omega (MHServerEmu) AXIS 團隊副本單人 mod
 
